@@ -7,7 +7,7 @@ This will display the three images side by side if the images are not to wide.
 
 
 <p float="left">
-  <img src="/Images/1.png" width="100%%" />
+  <img src="/Images/1.png" width="100%%" height = 50%/>
   <img src="/Images/2.png" width="100%" /> 
 </p>
 
