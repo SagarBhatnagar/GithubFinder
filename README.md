@@ -2,7 +2,6 @@
 A webapp to search for users on GitHub and display there profile and repos
 
 
-This will display the three images side by side if the images are not to wide.
 
 
 
